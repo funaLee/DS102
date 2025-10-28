@@ -17,3 +17,5 @@
 - Assignment 3
     - Logistic regression
     - Softmax Regression
+
+## 2. Bài tập nộp nằm ở file `assignments.ipynb`
