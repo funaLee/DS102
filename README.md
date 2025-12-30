@@ -53,4 +53,4 @@ Cài đặt và phân tích thuật toán K-Means Clustering sử dụng thư vi
 - [File assignment (assignments.ipynb)](LAB04/assignments.ipynb)
 
 ### Ngày nộp
-- 17/12/2025
+- 30/12/2025
