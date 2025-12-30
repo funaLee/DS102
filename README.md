@@ -13,6 +13,7 @@ Làm quen với các kỹ thuật tiền xử lý dữ liệu và thư viện Pa
 1.  **Load Dataset**: Đọc dữ liệu từ file CSV (Forest Fires, Pima Indians Diabetes).
 2.  **Data Cleaning**: Xử lý dữ liệu thiếu, dữ liệu nhiễu.
 3.  **Data Transformation**: Chuẩn hóa dữ liệu, mã hóa biến phân loại.
+4.  **Linear Regression Model**: Cài đặt thủ công và sử dụng thư viện `sklearn`.
 
 ### Link bài làm
 - [File assignment (assignments.ipynb)](LAB01/assignments.ipynb)
@@ -37,6 +38,19 @@ Cài đặt và phân tích thuật toán K-Means Clustering sử dụng thư vi
 
 ### Link bài làm
 - [File assignment (assignments.ipynb)](LAB03/assignments.ipynb)
+
+### Ngày nộp
+- 17/12/2025
+
+## Bài thực hành: LAB04 – K-Means Clustering
+### Nội dung thực hành
+Cài đặt và phân tích thuật toán K-Means Clustering sử dụng thư viện Numpy:
+1. **Assignment 1**: Cài đặt thuật toán K-Means cơ bản với phương pháp khởi tạo tâm cụm ngẫu nhiên.
+2. **Assignment 2**: Phân tích hiệu quả của K-Means trên dữ liệu có các cụm mất cân bằng (Unbalanced clusters).
+3. **Assignment 3**: Phân tích hạn chế của K-Means trên dữ liệu có phân phối không đẳng hướng (Anisotropic / Elliptical clusters).
+
+### Link bài làm
+- [File assignment (assignments.ipynb)](LAB04/assignments.ipynb)
 
 ### Ngày nộp
 - 17/12/2025
