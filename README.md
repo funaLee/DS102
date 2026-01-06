@@ -54,3 +54,16 @@ Cài đặt và phân tích thuật toán K-Means Clustering sử dụng thư vi
 
 ### Ngày nộp
 - 30/12/2025
+
+## Bài thực hành: LAB05 - Gaussian Mixture Model
+### Nội dung thực hành
+Tìm hiểu và ứng dụng mô hình Gaussian Mixture Model (GMM) trong bài toán tách nền ảnh:
+1. **Preliminaries**: Tìm hiểu lý thuyết về GMM và thuật toán EM.
+2. **Assignment**: Ứng dụng GMM để thực hiện tách nền (background removal) cho ảnh ngựa vằn (`zebra.jpg`) và kiểm thử trên tập dữ liệu test.
+
+### Link bài làm
+- [File assignment (assignment.ipynb)](LAB05/assignment.ipynb)
+
+### Ngày nộp
+- 06/01/2026
+
